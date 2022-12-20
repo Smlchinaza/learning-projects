@@ -1,0 +1,32 @@
+img{
+    width:250px;
+    height: 280px;
+    border-radius: 15px;
+}
+.Box-1{
+    width: 250px;
+    height: 450px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+p{
+    font-size: 15px;
+    text-align: center;
+    
+}
+body{
+    background-color: #cbd5e0;
+    align-content: center;
+}
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footage{
+    margin-top: 80px;
+    text-align: center;
+}
