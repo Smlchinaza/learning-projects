@@ -1,2 +1,2 @@
 # learning-projects
-Theses are projects I worked on after/during my learning days. 
+Theses are projects I'm working on just to improve my skill and learn more while coding.  
